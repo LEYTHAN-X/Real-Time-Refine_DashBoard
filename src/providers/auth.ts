@@ -7,7 +7,7 @@ import { User } from "@/graphql/schema.types";
 
 // Demo credentials (used for login testing)
 export const authCredentials = {
-    email: "michael.scott@dundermifflin.com",
+    email: "leythan@dundermifflin.com",
     password: "demodemo",
 };
 
