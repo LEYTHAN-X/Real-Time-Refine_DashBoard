@@ -3,6 +3,7 @@ import type { AuthProvider } from "@refinedev/core";
 
 // Import API URL and dataProvider (used to make API calls)
 import { API_URL, dataProvider } from "./data";
+import { User } from "@/graphql/schema.types";
 
 // Demo credentials (used for login testing)
 export const authCredentials = {
